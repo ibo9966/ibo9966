@@ -1,5 +1,7 @@
 About Me:
-👨‍💻Junior Android Developer<br>🤝Kotlin
+
+👨‍💻Junior Android Developer<br>
+🤝Kotlin
 
 
 ## 🌐 Socials:
