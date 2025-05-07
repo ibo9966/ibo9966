@@ -1,7 +1,5 @@
 About Me:
 
-## 👤 About Me:
-
 I'm a **Business Analyst** experienced in:
 - Agile team coordination and Scrum practices  
 - Preparing and analyzing business requirements  
